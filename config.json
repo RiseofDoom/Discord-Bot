@@ -1,0 +1,3 @@
+exports.TOKEN = 'lol no you cant have this';
+
+exports.PREFIX = 'd!';
