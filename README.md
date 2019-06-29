@@ -14,3 +14,6 @@ This bot also has the amazing feature of everytime you talk, its gonna spam you 
 
 
 (This is like our first bot so we don't know what we are doing lol)
+
+
+**Small warning that the file "cool" is really loud, and "smokey" is super quiet. Also don't question the jojo stuff.  
