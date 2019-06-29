@@ -12,7 +12,7 @@ Example: VCplay dream
 You can of course download your own MP3 files and put them in the "sounds" folder to play when you want.
 
 
-This bot also has the amazing feature of everytime you talk, its gonna spam you with some nice dm's.
+This bot also has the amazing feature of everytime you talk, its gonna spam you with some nice dm's, since talking while the music is playing is mean.
 
 
 (This is like our first bot so we don't know what we are doing lol)
